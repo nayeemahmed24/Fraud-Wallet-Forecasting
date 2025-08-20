@@ -1,6 +1,6 @@
 # Fraud Wallet Forecasting
 
-This project explores **fraudulent wallet detection and forecasting** using Ethereum transaction data.  
+This project explores **fraudulent wallet detection and forecasting** using Ethereum transaction data. Mainly forcasting is our main goal as there is not much work done in this way. 
 The dataset structure is based on the [Real-CATS Kaggle dataset](https://www.kaggle.com/datasets/lvd312393/real-cats),  
 but we experimented with a **subset of 250 wallets** for development and prototyping.
 
